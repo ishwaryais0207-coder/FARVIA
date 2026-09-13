@@ -1,0 +1,6 @@
+{
+  "name": "FARVIA",
+  "description": "AI-powered digital agricultural marketplace connecting farmers directly with buyers with Tamil voice assistance, smart matching, and fair price transparency.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
